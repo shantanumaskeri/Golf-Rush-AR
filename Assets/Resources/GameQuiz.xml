@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>Where is the headquarters of First National Bank situated?</question>
+    	<answer1>1st Road, Emirates Hills</answer1>
+    	<answer2>Mall of The Emirates</answer2>
+    	<answer3>City Centre Mirdif</answer3>
+    	<answer4>Burjuman Mall</answer4>
+    	<correctAnswer>Burjuman Mall</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>First National Bank’s global network spans across how many continents?</question>
+    	<answer1>Four (4) Continents</answer1>
+    	<answer2>Three (3) Continents</answer2>
+    	<answer3>One (1) Continent</answer3>
+    	<answer4>Six (6) Continents</answer4>
+    	<correctAnswer>Four (4) Continents</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the grace period for the first installment of an Auto loan?</question>
+    	<answer1>One (1) month</answer1>
+    	<answer2>Up to three (3) months</answer2>
+    	<answer3>Less than one (1) month</answer3>
+    	<answer4>More than three (3) months</answer4>
+    	<correctAnswer>Up to three (3) months</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the percentage cash back received by the customer when he uses is FNB cashback credit card in a supermarket (including online), fuel and utilities?</question>
+    	<answer1>20% Cashback</answer1>
+    	<answer2>12% Cashback</answer2>
+    	<answer3>25% Cashback</answer3>
+    	<answer4>15% Cashback</answer4>
+    	<correctAnswer>25% Cashback</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the 24/7 helpline number in the UAE?</question>
+    	<answer1>800 5800</answer1>
+    	<answer2>800 800 80</answer2>
+    	<answer3>600 52 5500</answer3>
+    	<answer4>800 342</answer4>
+    	<correctAnswer>600 52 5500</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>FNB is listed on which stock exchange?</question>
+    	<answer1>International Stock Exchange</answer1>
+    	<answer2>Emirates Stock Exchange</answer2>
+    	<answer3>UAE Stock Exchange</answer3>
+    	<answer4>National Stock Exchange</answer4>
+    	<correctAnswer>UAE Stock Exchange</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>FNB is approximately 25% owned by which government organization?</question>
+    	<answer1>UAE Investment Council</answer1>
+    	<answer2>First Al Khail Council</answer2>
+    	<answer3>National Council</answer3>
+    	<answer4>The Council of The Arabs and Emiratis</answer4>
+    	<correctAnswer>UAE Investment Council</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which are the subsidiary companies of First National Bank?</question>
+    	<answer1>ADCB Securities</answer1>
+    	<answer2>FNB Secure Properties</answer2>
+    	<answer3>Ibn Batuta Financial Holdings</answer3>
+    	<answer4>Burj Stock Properties</answer4>
+    	<correctAnswer>FNB Secure Properties</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>In late 2016 FNB launched an employee volunteering programme. Name that program.</question>
+    	<answer1>Living The Dream</answer1>
+    	<answer2>People with Goals</answer2>
+    	<answer3>Work For All</answer3>
+    	<answer4>Employees Come First</answer4>
+    	<correctAnswer>People with Goals</correctAnswer>
+	</questionnaire>
+	<levels>
+		<totalLevels>3</totalLevels>
+	</levels>
+	<time>
+		<totalTime>60</totalTime>
+	</time>
+</quiz>
